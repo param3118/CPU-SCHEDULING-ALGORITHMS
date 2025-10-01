@@ -141,20 +141,6 @@ Process ID | Arrival Time | Burst Time | Waiting Time | Turnaround Time
 Average Waiting Time    : 1.67
 Average Turnaround Time : 4.67
 
-## 📁 Project Structure
-
-CPU-Scheduling-Algorithms-CPP/
-│
-├── fcfs.cpp           # First Come First Serve implementation
-├── sjf.cpp            # Shortest Job First implementation
-├── rr.cpp             # Round Robin implementation
-├── srt.cpp            # Shortest Remaining Time implementation
-├── priority.cpp       # Priority Scheduling implementation
-├── hrrn.cpp           # Highest Response Ratio Next implementation
-├── README.md          # Project documentation
-├── LICENSE            # License file
-└── .gitignore         # Git ignore file
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
