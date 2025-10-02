@@ -1,0 +1,25 @@
+{
+  "name": "cpu-scheduling-",
+  "version": "1.0.0",
+  "description": "A comprehensive implementation of various Operating System CPU scheduling algorithms in C++. This project provides complete, working implementations of major scheduling techniques used in operating systems.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/param3118/CPU-SCHEDULING-ALGORITHMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/param3118/CPU-SCHEDULING-ALGORITHMS/issues"
+  },
+  "homepage": "https://github.com/param3118/CPU-SCHEDULING-ALGORITHMS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
